@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Janaina Araujo ✋
+### Olá! Eu sou a Janaina Araujo 🖐
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/janainaa000/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5535997217065)
@@ -20,5 +20,6 @@
 
 Simplesmente apaixonada por resolver problemas reais com tecnologia!
 
+  ![Snake animation](https://github.com/janaina006/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
